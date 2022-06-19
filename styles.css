@@ -1,0 +1,26 @@
+.space {
+     margin-top: 7.5cm;
+  }
+
+
+body {
+  background-color: darkred;
+  top: 50%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: arial;
+  font-size: 100px;
+  letter-spacing: 10px;
+  font-weight: initial;
+
+}
+
+p {
+  font-family: arial;
+  font-size: 12px;
+  text-align: center;
+  color: white;
+}
