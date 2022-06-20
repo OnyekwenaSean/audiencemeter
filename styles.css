@@ -2,10 +2,16 @@
      margin-top: 7.5cm;
   }
 
+.maintext{
+	font-size: 16px;
+	line-height: 2;
+}
+
 
 body {
-  background-color: darkred;
+  background-color: #3a5a77;
   top: 50%;
+  font-size: 20px;
 }
 
 h1 {
@@ -16,6 +22,21 @@ h1 {
   letter-spacing: 10px;
   font-weight: initial;
 
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: arial;
+  font-size: 50px;
+  letter-spacing: 5px;
+  font-weight: initial;
+
+}
+
+footer {
+	font-size: 8px;
+	letter-spacing: 1px;
 }
 
 p {
